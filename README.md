@@ -1,4 +1,4 @@
-# ImagePreprocessing
+# Image-Preprocessing
 
 ## 要求    
 1.在一个程序中，分别采用最大值法，平均值法和加权平均法对image1进行灰度化处理；  
