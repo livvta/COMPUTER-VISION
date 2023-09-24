@@ -1,10 +1,14 @@
 # COMPUTER-VISION  
 
+This project is a comprehensive collection of computer vision examples aimed at assisting undergraduate students in learning and understanding the fundamental concepts and techniques of computer vision.
+
+![Image text](img-storage/Neural network.png)
+
 ## BGR2HSI_BGR2HSV  
 
 编写程序，实现1.jpg的BGR色彩空间与HSI、HSV色彩空间之间的转换。  
 
-（根据色彩原理编写色彩空问转换代码，并将处理结果与OpenCV自带函数处理结果做对比）
+（根据色彩原理编写转换代码，并将处理结果与OpenCV自带函数处理结果做对比）
 
 ## Image-Preprocessing
 
@@ -13,7 +17,7 @@
 3.在一个程序中，对image2进行直方图均衡化处理；  
 4.在一个程序中，分别采用均值滤波，中值滤波和高斯滤波方法对image3进行去噪声处理；  
 
-（根据各图像处理原理编写代码，并将处理结果与opencv自带函数处理结果做对比）   
+（根据各图像处理原理编写代码，并将处理结果与OpenCV自带函数处理结果做对比）   
 
 ## Line-Detection  
 
