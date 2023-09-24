@@ -2,7 +2,7 @@
 
 This project is a comprehensive collection of computer vision examples aimed at assisting undergraduate students in learning and understanding the fundamental concepts and techniques of computer vision.
 
-![Image text](img-storage/Neural-network.png)
+![Image text](https://github.com/livvta/COMPUTER-VISION/blob/main/img-storage/Neural-network.png)
 
 ## BGR2HSI_BGR2HSV  
 
