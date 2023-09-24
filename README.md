@@ -2,7 +2,9 @@
 
 ## BGR2HSI_BGR2HSV  
 
-根据色彩原理编写色彩空问转换代码程序，实现1.jpg的BGR色彩空间与HSI、HSV色彩空间之间的转换，并将处理结果与OpenCV自带函数处理结果做对比。  
+编写程序，实现1.jpg的BGR色彩空间与HSI、HSV色彩空间之间的转换。  
+
+（根据色彩原理编写色彩空问转换代码，并将处理结果与OpenCV自带函数处理结果做对比）
 
 ## Image-Preprocessing
 
